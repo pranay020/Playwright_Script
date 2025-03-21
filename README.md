@@ -2,11 +2,8 @@
 
 ## Overview
 
-
-
-
-
-
+* This Playwright script automates login, session handling, and data extraction from a hidden product table.
+* It navigates through UI elements, handles pagination, and exports the scraped data to a JSON file.
 
 ## Installation<a name="installation"></a>
 ### Running Locally
