@@ -21,8 +21,30 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 	```
 	$ python --version
 	```
-4. Start the application
+4.  Set Up a Virtual Environment (Windows)
 
 	```
-	$ node index.js
+	$ python -m venv venv
 	```
+5.  Activate the virtual environment (Windows)
+
+	```
+	$ venv\Scripts\activate
+	```
+ 6.  Install Playwright and Dependencies (Windows)
+
+	```
+	$ pip install playwright
+ 	$ playwright install
+	```
+ 7.  Debugging (If Required)
+
+	```
+	$ playwright install-deps
+	```
+  8.  Run the Script
+
+	```
+	$ python playwright_script.py
+	```
+ 
