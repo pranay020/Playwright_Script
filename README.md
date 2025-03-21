@@ -23,10 +23,8 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 	```
 4.  Set Up a Virtual Environment (Windows)
 
-	```
-	$ python -m venv venv
-	```
- 5.  Activate the virtual environment (Windows)
+    	$ python -m venv venv
+  5.  Activate the virtual environment (Windows)
 
 	```
 	$ venv\Scripts\activate
