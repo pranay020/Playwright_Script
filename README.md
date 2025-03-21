@@ -46,4 +46,9 @@
 	```
 		$ python playwright_script.py
 	```
- 
+## Technologies Used 
+
+	* Python
+ 	* HTML
+  	* Javascript
+   	* PowerShell
