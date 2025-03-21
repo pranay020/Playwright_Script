@@ -22,12 +22,12 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 	$ python --version
 	```
 4.  Set Up a Virtual Environment (Windows)
-
-    	$ python -m venv venv
-  5.  Activate the virtual environment (Windows)
-
 	```
-	$ venv\Scripts\activate
+        $ https://github.com/pranay020/Playwright_Script.git
+	```
+  5.  Activate the virtual environment (Windows)
+	```
+        $ https://github.com/pranay020/Playwright_Script.git
 	```
   6.  Install Playwright and Dependencies (Windows)
 
