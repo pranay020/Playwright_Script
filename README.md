@@ -22,11 +22,11 @@
 	```
 4.  Set Up a Virtual Environment (Windows)
 	```
-    	$ https://github.com/pranay020/Playwright_Script.git
+    	$ python -m venv venv
 	```
 5.  Activate the virtual environment (Windows)
 	```
-    	$ https://github.com/pranay020/Playwright_Script.git
+    	$ venv\Scripts\activate
 	```
 6.  Install Playwright and Dependencies (Windows)
 
